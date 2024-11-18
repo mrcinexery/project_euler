@@ -1,5 +1,7 @@
 """
 Here is a gathering of the problems + solutions 1 - 5 of projecteuler.
+To run individual functions without running docstring tests, paste
+if __name__ == "__main__": and then the specific function to do so.
 """
 
 import time
@@ -340,5 +342,7 @@ def smallest_multiple(range_int):
 
     return smallest_number
 
-# print(smallest_multiple(20))
+if __name__ == "__main__":
+    pass
+   # print(smallest_multiple(10))
 # -----------------------------------------------------------------------------
