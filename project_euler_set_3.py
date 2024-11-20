@@ -1,5 +1,5 @@
 """
-Here is a gathering of the problems + solutions 10 - 15 of projecteuler.
+Here is a gathering of the problems + solutions 11 - 15 of projecteuler.
 To run individual functions without running docstring tests, paste
 if __name__ == "__main__": and then the specific function to do so.
 """
