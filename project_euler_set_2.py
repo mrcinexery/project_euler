@@ -7,7 +7,7 @@ if __name__ == "__main__": and then the specific function to do so.
 # Sum Square Difference
 # Problem 6
 # The sum of the squares of the first ten natural numbers is,
-# 1^2 + 2^2 + ... + 10^2 = 385.
+# 1^2 + 2^2 + ... + 10^2 =  385.
 # The square of the sum of the first ten natural numbers is,
 # (1 + 2 + ... + 10)^2 = 55^2 = 3025.
 # Hence, the difference between the sum of the squares of the first ten natural
